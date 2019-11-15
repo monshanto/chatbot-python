@@ -1,0 +1,2083 @@
+## intent:affirm
+- yes
+- [Yes](affirm)
+- indeed
+- of course
+- that sounds good
+- correct
+- yeah i do
+- /affirm
+- /affirm{"affirm":"Yes"}
+- /affirm[{"affirm":"Yes"}](affirm:Yes)
+- /affirm[{"affirm":"Yes"}](affirm:Yes)
+- /affirm[{"affirm":"Yes"}](affirm:Yes)
+- /affirm[{"affirm":"Yes"}](affirm:Yes)
+- /affirm[{"affirm":"Yes"}](affirm:Yes)
+- /affirm[{"affirm":"Yes"}](affirm:Yes)
+- /affirm[{"affirm":"Yes"}](affirm:Yes)
+- /affirm[{"affirm":"Yes"}](affirm:Yes)
+- /affirm[{"affirm":"Yes"}](affirm:Yes)
+- /affirm[{"affirm":"Yes"}](affirm:Yes)
+
+
+## intent:bye
+- bye
+- goodbye
+- cya
+- bye bye
+- bye
+- bye
+
+## intent:confirm_appqueries
+- [Choice of 4 Exam Cities](confirm_appqueries)
+- [Recovery of Application Number](confirm_appqueries)
+- [Password Reset](confirm_appqueries)
+- [Discrepancy in Images](confirm_appqueries)
+- [Correction in Application Form](confirm_appqueries)
+- [Confirmation Page Download](confirm_appqueries)
+- [Id Proofs Required](confirm_appqueries)
+- [Acceptance of Photograph without name and date](confirm_appqueries)
+- [Rejection of Duplicate Forms](confirm_appqueries)
+- [Image Size and Instructions](confirm_appqueries)
+- [Reservation system and Category](confirm_appqueries)
+- /confirm_appqueries[{"confirm_appqueries":"Id Proofs Required"}](confirm_appqueries:Id Proofs Required)
+- /confirm_appqueries[{"confirm_appqueries":"Choice of 4 Exam Cities"}](confirm_appqueries:Choice of 4 Exam Cities)
+- /confirm_appqueries[{"confirm_appqueries":"Choice of 4 Exam Cities"}](confirm_appqueries:Choice of 4 Exam Cities)
+- /confirm_appqueries[{"confirm_appqueries":"Choice of 4 Exam Cities"}](confirm_appqueries:Choice of 4 Exam Cities)
+- /confirm_appqueries[{"confirm_appqueries":"Acceptance of Photograph without name and date"}](confirm_appqueries:Acceptance of Photograph without name and date)
+- /confirm_appqueries[{"confirm_appqueries":"Id Proofs Required"}](confirm_appqueries:Id Proofs Required)
+
+## intent:confirm_category
+- [General/EWS/OBC](confirm_category)
+- [SC/ST/PwD/Transgender](confirm_category)
+- /confirm_category{"confirm_category":"General/EWS/OBC"}
+- /confirm_category{"confirm_category":"SC/ST/PwD/Transgender"}
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"SC/ST/PwD/Transgender"}](confirm_category:SC/ST/PwD/Transgender)
+- /confirm_category[{"confirm_category":"General/EWS/OBC"}](confirm_category:General/EWS/OBC)
+
+## intent:confirm_centerquery
+- [Change of Center](confirm_centerquery)
+- [During correction time period is it possible to change center](confirm_centerquery)
+- /confirm_centerquery[{"confirm_centerquery":"Change of Center"}](confirm_centerquery:Change of Center)
+- /confirm_centerquery[{"confirm_centerquery":"Change of Center during correction time period"}](confirm_centerquery:Change of Center during correction time period)
+- /confirm_centerquery[{"confirm_centerquery":"During correction time period is it possible to change center."}](confirm_centerquery:During correction time period is it possible to change center.)
+- /confirm_centerquery[{"confirm_centerquery":"Change of Center"}](confirm_centerquery:Change of Center)
+- /confirm_centerquery[{"confirm_centerquery":"During correction time period is it possible to change center."}](confirm_centerquery:During correction time period is it possible to change center.)
+- /confirm_centerquery[{"confirm_centerquery":"During correction time period is it possible to change center."}](confirm_centerquery:During correction time period is it possible to change center.)
+- /confirm_centerquery[{"confirm_centerquery":"During correction time period is it possible to change center."}](confirm_centerquery:During correction time period is it possible to change center.)
+- /confirm_centerquery[{"confirm_centerquery":"Change of Center"}](confirm_centerquery:Change of Center)
+- /confirm_centerquery[{"confirm_centerquery":"Change of Center"}](confirm_centerquery:Change of Center)
+- /confirm_centerquery[{"confirm_centerquery":"During correction time period is it possible to change center."}](confirm_centerquery:During correction time period is it possible to change center.)
+- /confirm_centerquery[{"confirm_centerquery":"During correction time period is it possible to change center."}](confirm_centerquery:During correction time period is it possible to change center.)
+- /confirm_centerquery[{"confirm_centerquery":"Change of Center"}](confirm_centerquery:Change of Center)
+- /confirm_centerquery[{"confirm_centerquery":"During correction time period is it possible to change center."}](confirm_centerquery:During correction time period is it possible to change center.)
+- /confirm_centerquery[{"confirm_centerquery":"During correction time period is it possible to change center."}](confirm_centerquery:During correction time period is it possible to change center.)
+- /confirm_centerquery[{"confirm_centerquery":"During correction time period is it possible to change center."}](confirm_centerquery:During correction time period is it possible to change center.)
+- /confirm_centerquery[{"confirm_centerquery":"During correction time period is it possible to change center."}](confirm_centerquery:During correction time period is it possible to change center.)
+
+## intent:confirm_certificatequeries
+- [Certificates required during submission](confirm_certificatequeries)
+- [Necessary to carry PWD Certificate in Exam Center](confirm_certificatequeries)
+- /confirm_certificatequeries[{"confirm_certificatequeries":"Certificates required during submission"}](confirm_certificatequeries:Certificates required during submission)
+- /confirm_certificatequeries[{"confirm_certificatequeries":"Necessary to carry PWD Certificate in Exam Center"}](confirm_certificatequeries:Necessary to carry PWD Certificate in Exam Center)
+- /confirm_certificatequeries[{"confirm_certificatequeries":"Necessary to carry PWD Certificate in Exam Center"}](confirm_certificatequeries:Necessary to carry PWD Certificate in Exam Center)
+- /confirm_certificatequeries[{"confirm_certificatequeries":"Certificates required during submission"}](confirm_certificatequeries:Certificates required during submission)
+- /confirm_certificatequeries[{"confirm_certificatequeries":"Certificates required during submission"}](confirm_certificatequeries:Certificates required during submission)
+
+## intent:confirm_criteriatype
+- [Age Limit](confirm_criteriatype)
+- [Criteria for Foreign Candidate/NRI student](confirm_criteriatype)
+- [State of Eligibility](confirm_criteriatype)
+- [Required Percentage](confirm_criteriatype)
+- /confirm_criteriatype[{"confirm_criteriatype":"Age Limit"}](confirm_criteriatype:Age Limit)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"Required Percentage"}](confirm_criteriatype:Required Percentage)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"Age Limit"}](confirm_criteriatype:Age Limit)
+- /confirm_criteriatype[{"confirm_criteriatype":"Required Percentage"}](confirm_criteriatype:Required Percentage)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}](confirm_criteriatype:Criteria for Foreign Candidate/NRI student)
+- /confirm_criteriatype[{"confirm_criteriatype":"State of Eligibility"}](confirm_criteriatype:State of Eligibility)
+
+## intent:confirm_exam
+- [JEE-MAIN](confirm_exam)
+- [UGC-NET](confirm_exam)
+- [CSIR UGC-NET](confirm_exam)
+- /confirm_exam{"confirm_exam":"JEE-MAIN"}
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"IIFT"}](confirm_exam:IIFT)
+- /confirm_exam{"confirm_exam":"CSIR UGC-NET"}
+- /confirm_exam[{"confirm_exam":"UGC-NET"}](confirm_exam:UGC-NET)
+- /confirm_exam[{"confirm_exam":"IIFT"}](confirm_exam:IIFT)
+- /confirm_exam[{"confirm_exam":"UGC-NET"}](confirm_exam:UGC-NET)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"UGC-NET"}](confirm_exam:UGC-NET)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"UGC-NET"}](confirm_exam:UGC-NET)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"UGC-NET"}](confirm_exam:UGC-NET)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"UGC-NET"}](confirm_exam:UGC-NET)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"JEE-MAIN"}](confirm_exam:JEE-MAIN)
+- /confirm_exam[{"confirm_exam":"UGC-NET"}](confirm_exam:UGC-NET)
+- /confirm_exam[{"confirm_exam":"CSIR UGC-NET"}](confirm_exam:CSIR UGC-NET)
+
+## intent:confirm_examquery
+- [Medium Of Exam](confirm_examquery)
+- [Mode Of Exam](confirm_examquery)
+- [Pattern of Examination](confirm_examquery)
+- [Number of Attempts](confirm_examquery)
+- [Change of Exam Date & Shift](confirm_examquery)
+- [Re-Scheduling Of Exam due to Natural Disaster](confirm_examquery)
+- [How to check JEE Mains exam Date](confirm_examquery)
+- [If Compensatory time will be given in case of technical fault?](confirm_examquery)
+- /confirm_examquery[{"confirm_examquery":"Medium Of Exam"}](confirm_examquery:Medium Of Exam)
+- /confirm_examquery[{"confirm_examquery":"Number of Attempts"}](confirm_examquery:Number of Attempts)
+- /confirm_examquery[{"confirm_examquery":"Pattern of Examination"}](confirm_examquery:Pattern of Examination)
+- /confirm_examquery[{"confirm_examquery":"Change of Exam Date & Shift"}](confirm_examquery:Change of Exam Date & Shift)
+- /confirm_examquery[{"confirm_examquery":"Change of Exam Date & Shift"}](confirm_examquery:Change of Exam Date & Shift)
+- /confirm_examquery[{"confirm_examquery":"Change of Exam Date & Shift"}](confirm_examquery:Change of Exam Date & Shift)
+- /confirm_examquery[{"confirm_examquery":"How to check JEE Mains exam Date?"}](confirm_examquery:How to check JEE Mains exam Date?)
+- /confirm_examquery[{"confirm_examquery":"Mode Of Exam"}](confirm_examquery:Mode Of Exam)
+- /confirm_examquery[{"confirm_examquery":"How to check JEE Mains exam Date?"}](confirm_examquery:How to check JEE Mains exam Date?)
+
+## intent:confirm_feedback
+- [Satisfied](confirm_feedback)
+- [Not Satisfied](confirm_feedback)
+- /confirm_feedback[{"confirm_feedback":"Not Satisfied"}](confirm_feedback:Not Satisfied)
+- /confirm_feedback[{"confirm_feedback":"Not Satisfied"}](confirm_feedback:Not Satisfied)
+- /confirm_feedback[{"confirm_feedback":"Satisfied "}](confirm_feedback:Satisfied )
+- /confirm_feedback[{"confirm_feedback":"Satisfied "}](confirm_feedback:Satisfied )
+
+## intent:confirm_gender
+- [Male](confirm_gender)
+- [Female](confirm_gender)
+- /confirm_gender[{"confirm_gender":"Female"}](confirm_gender:Female)
+- /confirm_gender[{"confirm_gender":"Male"}](confirm_gender:Male)
+- /confirm_gender[{"confirm_gender":"Male"}](confirm_gender:Male)
+- /confirm_gender[{"confirm_gender":"Female"}](confirm_gender:Female)
+- /confirm_gender[{"confirm_gender":"Female"}](confirm_gender:Female)
+- /confirm_gender[{"confirm_gender":"Male"}](confirm_gender:Male)
+- /confirm_gender[{"confirm_gender":"Male"}](confirm_gender:Male)
+- /confirm_gender[{"confirm_gender":"Female"}](confirm_gender:Female)
+- /confirm_gender[{"confirm_gender":"Male"}](confirm_gender:Male)
+- /confirm_gender[{"confirm_gender":"Female"}](confirm_gender:Female)
+- /confirm_gender[{"confirm_gender":"Male"}](confirm_gender:Male)
+- /confirm_gender[{"confirm_gender":"Female"}](confirm_gender:Female)
+- /confirm_gender[{"confirm_gender":"Male"}](confirm_gender:Male)
+
+## intent:confirm_generalfaqs
+- [Aadhar Card Mandatory](confirm_generalfaqs)
+- [Gate Closing Time](confirm_generalfaqs)
+- [Reporting time of Exam](confirm_generalfaqs)
+- [Use of Calculator](confirm_generalfaqs)
+- [Negative Marking](confirm_generalfaqs)
+- [Email Id of JEE(Main)](confirm_generalfaqs)
+- [Allowance to take any object in exam center](confirm_generalfaqs)
+- [Dress Code for Exam](confirm_generalfaqs)
+- /confirm_generalfaqs[{"confirm_generalfaqs":"Aadhar Card Mandatory"}](confirm_generalfaqs:Aadhar Card Mandatory)
+- /confirm_generalfaqs[{"confirm_generalfaqs":"Gate Closing Time"}](confirm_generalfaqs:Gate Closing Time)
+- /confirm_generalfaqs[{"confirm_generalfaqs":"Reporting time of Exam"}](confirm_generalfaqs:Reporting time of Exam)
+- /confirm_generalfaqs[{"confirm_generalfaqs":"Reporting time of Exam"}](confirm_generalfaqs:Reporting time of Exam)
+- /confirm_generalfaqs[{"confirm_generalfaqs":"Use of Calculator"}](confirm_generalfaqs:Use of Calculator)
+- /confirm_generalfaqs[{"confirm_generalfaqs":"Aadhar Card Mandatory"}](confirm_generalfaqs:Aadhar Card Mandatory)
+- /confirm_generalfaqs[{"confirm_generalfaqs":"Reporting time of Exam"}](confirm_generalfaqs:Reporting time of Exam)
+- /confirm_generalfaqs[{"confirm_generalfaqs":"Reporting time of Exam"}](confirm_generalfaqs:Reporting time of Exam)
+
+## intent:confirm_otherstopics
+- [Exam Related Queries](confirm_otherstopics)
+- [Application Form Related](confirm_otherstopics)
+- [Certificates Related](confirm_otherstopics)
+- [Payment/Fees Related](confirm_otherstopics)
+- [General FAQs](confirm_otherstopics)
+- /confirm_otherstopics[{"confirm_otherstopics":"Exam Related Queries"}](confirm_otherstopics:Exam Related Queries)
+- /confirm_otherstopics[{"confirm_otherstopics":"Exam Related Queries"}](confirm_otherstopics:Exam Related Queries)
+- /confirm_otherstopics[{"confirm_otherstopics":"Exam Related Queries"}](confirm_otherstopics:Exam Related Queries)
+- /confirm_otherstopics[{"confirm_otherstopics":"Exam Related Queries"}](confirm_otherstopics:Exam Related Queries)
+- /confirm_otherstopics[{"confirm_otherstopics":"General FAQs"}](confirm_otherstopics:General FAQs)
+- /confirm_otherstopics[{"confirm_otherstopics":"Application Form Related"}](confirm_otherstopics:Application Form Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Certificates Related"}](confirm_otherstopics:Certificates Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Certificates Related"}](confirm_otherstopics:Certificates Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"General FAQs"}](confirm_otherstopics:General FAQs)
+- /confirm_otherstopics[{"confirm_otherstopics":"Payment/Fees Related"}](confirm_otherstopics:Payment/Fees Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Application Form Related"}](confirm_otherstopics:Application Form Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"General FAQs"}](confirm_otherstopics:General FAQs)
+- /confirm_otherstopics[{"confirm_otherstopics":"Exam Related Queries"}](confirm_otherstopics:Exam Related Queries)
+- /confirm_otherstopics[{"confirm_otherstopics":"Application Form Related"}](confirm_otherstopics:Application Form Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Payment/Fees Related"}](confirm_otherstopics:Payment/Fees Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Certificates Related"}](confirm_otherstopics:Certificates Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"General FAQs"}](confirm_otherstopics:General FAQs)
+- /confirm_otherstopics[{"confirm_otherstopics":"Exam Related Queries"}](confirm_otherstopics:Exam Related Queries)
+- /confirm_otherstopics[{"confirm_otherstopics":"Exam Related Queries"}](confirm_otherstopics:Exam Related Queries)
+- /confirm_otherstopics[{"confirm_otherstopics":"Exam Related Queries"}](confirm_otherstopics:Exam Related Queries)
+- /confirm_otherstopics[{"confirm_otherstopics":"Application Form Related"}](confirm_otherstopics:Application Form Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Application Form Related"}](confirm_otherstopics:Application Form Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Exam Related Queries"}](confirm_otherstopics:Exam Related Queries)
+- /confirm_otherstopics[{"confirm_otherstopics":"Application Form Related"}](confirm_otherstopics:Application Form Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Payment/Fees Related"}](confirm_otherstopics:Payment/Fees Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Payment/Fees Related"}](confirm_otherstopics:Payment/Fees Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Certificates Related"}](confirm_otherstopics:Certificates Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"Certificates Related"}](confirm_otherstopics:Certificates Related)
+- /confirm_otherstopics[{"confirm_otherstopics":"General FAQs"}](confirm_otherstopics:General FAQs)
+- /confirm_otherstopics[{"confirm_otherstopics":"General FAQs"}](confirm_otherstopics:General FAQs)
+- /confirm_otherstopics[{"confirm_otherstopics":"General FAQs"}](confirm_otherstopics:General FAQs)
+- /confirm_otherstopics[{"confirm_otherstopics":"General FAQs"}](confirm_otherstopics:General FAQs)
+
+## intent:confirm_paymentqueries
+- [Payment Mode](confirm_paymentqueries)
+- [Fee Criteria for Answer Key Challenge](confirm_paymentqueries)
+- [Refund of Money if transaction done multiple times](confirm_paymentqueries)
+- [Refund of money if Question challenged found correct](confirm_paymentqueries)
+- [Extra fee or any service charges while making online payment](confirm_paymentqueries)
+- /confirm_paymentquerieFee Criteria for Answer Key Challenges[{"confirm_paymentqueries":"Refund of Money if transaction done multiple times"}](confirm_paymentqueries:Refund of Money if transaction done multiple times)
+- /confirm_paymentqueries[{"confirm_paymentqueries":"Refund of Money if transaction done multiple times"}](confirm_paymentqueries:Refund of Money if transaction done multiple times)
+- /confirm_paymentqueries[{"confirm_paymentqueries":"Refund of money if Question challenged found correct"}](confirm_paymentqueries:Refund of money if Question challenged found correct)
+- /confirm_paymentqueries[{"confirm_paymentqueries":"Refund of Money if transaction done multiple times"}](confirm_paymentqueries:Refund of Money if transaction done multiple times)
+- /confirm_paymentqueries[{"confirm_paymentqueries":"Refund of money if Question challenged found correct"}](confirm_paymentqueries:Refund of money if Question challenged found correct)
+
+## intent:confirm_topic
+- [Important Dates](confirm_topic)
+- [Eligibility Criteria](confirm_topic)
+- [Fees Related Query](confirm_topic)
+- [Center Related Query](confirm_topic)
+- [General Topics](confirm_topic)
+- [Others](confirm_topic)
+- /confirm_topic{"confirm_topic":"Important Dates"}
+- /confirm_topic{"confirm_topic":"Eligibility Criteria"}
+- /confirm_topic{"confirm_topic":"Fees Related Query"}
+- /confirm_topic{"confirm_topic":"Center Related Query"}
+- /confirm_topic{"confirm_topic":"General Topics"}
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Fees Related Query"}](confirm_topic:Fees Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Center Related Query"}](confirm_topic:Center Related Query)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Eligibility Criteria"}](confirm_topic:Eligibility Criteria)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Others"}](confirm_topic:Others)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+- /confirm_topic[{"confirm_topic":"Important Dates"}](confirm_topic:Important Dates)
+
+## intent:confirm_whichdate
+- [Last date of fee submission & image uploading](confirm_whichdate)
+- [Release of Application Form](confirm_whichdate)
+- [Last date to submit the application form](confirm_whichdate)
+- [Image correction started](confirm_whichdate)
+- [Application correction window](confirm_whichdate)
+- [Availability of Admit card](confirm_whichdate)
+- [JEE Main 2020 Exam](confirm_whichdate)
+- [Declaration of Results](confirm_whichdate)
+- [Answer Key](confirm_whichdate)
+- [Availability of Answer Key challenge facility](confirm_whichdate)
+- [Release of Final Answer Keys](confirm_whichdate)
+- /confirm_whichdate{"confirm_whichdate":"Last date of fee submission & image uploading"}
+- /confirm_whichdate{"confirm_whichdate":"Release of Application Form"}
+- /confirm_whichdate{"confirm_whichdate":"Availability of Admit card"}
+- /confirm_whichdate{"confirm_whichdate":"Answer Key"}
+- /confirm_whichdate{"confirm_whichdate":"Availability of Answer Key challenge facility"}
+- /confirm_whichdate{"confirm_whichdate":"JEE Main 2020 Exam"}
+- /confirm_whichdate{"confirm_whichdate":"Availability of Admit card"}
+- /confirm_whichdate{"confirm_whichdate":"Application correction window"}
+- /confirm_whichdate{"confirm_whichdate":"Declaration of Results"}
+- /confirm_whichdate[{"confirm_whichdate":"Last date of fee submission & image uploading"}](confirm_whichdate:Last date of fee submission & image uploading)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Last date of fee submission & image uploading"}](confirm_whichdate:Last date of fee submission & image uploading)
+- /confirm_whichdate[{"confirm_whichdate":"Last date of fee submission & image uploading"}](confirm_whichdate:Last date of fee submission & image uploading)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Answer Key"}](confirm_whichdate:Answer Key)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Answer Key challenge facility"}](confirm_whichdate:Availability of Answer Key challenge facility)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate{"confirm_whichdate":"Notification release"}
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"Notification release"}](confirm_whichdate:Notification release)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Image correction started"}](confirm_whichdate:Image correction started)
+- /confirm_whichdate{"confirm_whichdate":"Release of Final Answer Key"}
+- /confirm_whichdate[{"confirm_whichdate":"Notification release"}](confirm_whichdate:Notification release)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Last date to submit the application form"}](confirm_whichdate:Last date to submit the application form)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+- /confirm_whichdate[{"confirm_whichdate":"Image correction started"}](confirm_whichdate:Image correction started)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Image correction started"}](confirm_whichdate:Image correction started)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Image correction started"}](confirm_whichdate:Image correction started)
+- /confirm_whichdate[{"confirm_whichdate":"Notification release"}](confirm_whichdate:Notification release)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+- /confirm_whichdate[{"confirm_whichdate":"Image correction started"}](confirm_whichdate:Image correction started)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+- /confirm_whichdate[{"confirm_whichdate":"Image correction started"}](confirm_whichdate:Image correction started)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Answer Key challenge facility"}](confirm_whichdate:Availability of Answer Key challenge facility)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Last date of fee submission & image uploading"}](confirm_whichdate:Last date of fee submission & image uploading)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Answer Key challenge facility"}](confirm_whichdate:Availability of Answer Key challenge facility)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Answer Key"}](confirm_whichdate:Answer Key)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Answer Key"}](confirm_whichdate:Answer Key)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"Answer Key"}](confirm_whichdate:Answer Key)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+- /confirm_whichdate[{"confirm_whichdate":"Answer Key"}](confirm_whichdate:Answer Key)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Answer Key challenge facility"}](confirm_whichdate:Availability of Answer Key challenge facility)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Final Answer Key"}](confirm_whichdate:Release of Final Answer Key)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Notification release"}](confirm_whichdate:Notification release)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Answer Key"}](confirm_whichdate:Answer Key)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Last date of fee submission & image uploading"}](confirm_whichdate:Last date of fee submission & image uploading)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"JEE Main 2020 Exam"}](confirm_whichdate:JEE Main 2020 Exam)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Availability of Admit card"}](confirm_whichdate:Availability of Admit card)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Notification release"}](confirm_whichdate:Notification release)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Release of Application Form"}](confirm_whichdate:Release of Application Form)
+- /confirm_whichdate[{"confirm_whichdate":"Last date to submit the application form"}](confirm_whichdate:Last date to submit the application form)
+- /confirm_whichdate[{"confirm_whichdate":"Application correction window"}](confirm_whichdate:Application correction window)
+- /confirm_whichdate[{"confirm_whichdate":"Declaration of Results"}](confirm_whichdate:Declaration of Results)
+
+## intent:contact
+- [7009823336](contact)
+- [0123456789](contact)
+- [9876543211](contact)
+- [1234567890](contact)
+- [9876543221](contact)
+- [7896543221](contact)
+- [0112345678](contact)
+- [8977665432](contact)
+- [7888999345](contact)
+- [8899334455](contact)
+- [6677889955](contact)
+- [9464778411](contact)
+- [9646778411](contact)
+- [9646778412](contact)
+- [0987654321](contact)
+- [9988776655](contact)
+- [9876543210](contact)
+- [0987654322](contact)
+- [0986745231](contact)
+- [1243658709](contact)
+- [9876543211](contact)
+- [0099887766](contact)
+- [0987665432](contact)
+- [0987766543](contact)
+- [0998877665](contact)
+- [0987654321](contact)
+- [0987654321](contact)
+- [1234567890](contact)
+- [0987654321](contact)
+- [9988876543](contact)
+- [8967452310](contact)
+- [0987654321](contact)
+- [0987654321](contact)
+- [0987654321](contact)
+- [9988776655](contact)
+- [0987665432](contact)
+- [0998877654](contact)
+- [0099887766](contact)
+- [1234567890](contact)
+- [0998822334](contact)
+- [0099887766](contact)
+- [9988776655](contact)
+- [0998877665](contact)
+- [9988776655](contact)
+- [0998877665](contact)
+- [9988765432](contact)
+- [0998876543](contact)
+- [0998876542](contact)
+- [0987643211](contact)
+- [0987654321](contact)
+- [0987654321](contact)
+- [0987654322](contact)
+- [0987654321](contact)
+- [0987654321](contact)
+- [0987654321](contact)
+- [0123456789](contact)
+- [0987654321](contact)
+- [0987654321](contact)
+- [0124567890](contact)
+- [2233445566](contact)
+- [9988776655](contact)
+- [0987654321](contact)
+- [9876543219](contact)
+- [0987654321](contact)
+- [0123456789](contact)
+- [0987654321](contact)
+- [0987654321](contact)
+- [8899765432](contact)
+- [0987654321](contact)
+- [9876543210](contact)
+- [9876543211](contact)
+- [0987654321](contact)
+- [9876543211](contact)
+- [9876544321](contact)
+- [7788996543](contact)
+- [8765432100](contact)
+- [9876543211](contact)
+- [7654321889](contact)
+- [8899765432](contact)
+- [1234567890](contact)
+- [8876543219](contact)
+- [9876543221](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9887654321](contact)
+- [9876543210](contact)
+- [9876543210](contact)
+- [9876543210](contact)
+- [9876543210](contact)
+- [9876543210](contact)
+- [9887654321](contact)
+- [7990023366](contact)
+- [7998833221](contact)
+- [7788992233](contact)
+- [9876543211](contact)
+- [9876543222](contact)
+- [9887654321](contact)
+- [9876543211](contact)
+- [7998823366](contact)
+- [9876543221](contact)
+- [9876543321](contact)
+- [9876543210](contact)
+- [9876543210](contact)
+- [9876554321](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9988765432](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543221](contact)
+- [9887654321](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543210](contact)
+- [9876543221](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543221](contact)
+- [9876543211](contact)
+- [9807654321](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9042567811](contact)
+- [9876543211](contact)
+- [9876543221](contact)
+- [8097652341](contact)
+- [8897654321](contact)
+- [7986754333](contact)
+- [7008965555](contact)
+- [9876543211](contact)
+- [7008965444](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [8976654333](contact)
+- [9876543211](contact)
+- [7896554332](contact)
+- [8976512344](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543221](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [8097654443](contact)
+- [8097654444](contact)
+- [9876543211](contact)
+- [7009885433](contact)
+- [9876543211](contact)
+- [9876543211](contact)
+- [9876541110](contact)
+- [9876543211](contact)
+- [7998834556](contact)
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- /deny
+- /deny{"deny":"No"}
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- no
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+- /deny[{"deny":"No"}](deny:No)
+
+## intent:email
+- [sachdevamanu20@gmail.com](email)
+- [shivani.python@outlook.com](email)
+- [rakesh.cto@outlook.com](email)
+- [er.shivanisachdeva@gmail.com](email)
+- [ishani.bakshi@gmail.com](email)
+- [razia.rani@gmail.com](email)
+- [anil@gmail.com](email)
+- [ravneet@gmail.com](email)
+- [shivani.python@gmail.com](email)
+- [abc@gmail.com](email)
+- [abd@gmail.com](email)
+- [er,shivanisachdeva@gmail.com](email)
+- [abcd@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shivani.s@gmail.com](email)
+- [anam.20@gmail.com](email)
+- [rakesh.absolve@gmail.com](email)
+- [lalit@gmail.com](email)
+- [sachdeva@gmail.com](email)
+- [ssachdeva@gmail.com](email)
+- [er.shivanisachdeva@gmail.com](email)
+- [er.shivanisachdeva@gmail.com](email)
+- [rajan@gmail.com](email)
+- [rakesh@gmail.com](email)
+- [sunita@gmail.com](email)
+- [ssachdeva@gmail.com](email)
+- [ritu@gmail.com](email)
+- [shivay@gmail.com](email)
+- [razia.rani@gmail.com](email)
+- [manisha.thakur@gmail.com](email)
+- [lalit@gmail.com](email)
+- [ssachdeva@gmail.com](email)
+- [rohan@gmail.com](email)
+- [tanya.tester@gmail.com](email)
+- [anil@gmail.com](email)
+- [gp@gmail.com](email)
+- [akshay@gmail.com](email)
+- [ish@gmail.com](email)
+- [ssachdeva@gmail.com](email)
+- [tanya@gmail.com](email)
+- [ishani@gmail.com](email)
+- [ak@gmail.com](email)
+- [sachdeva08@gmail.com](email)
+- [ritu@gmail.com](email)
+- [er.shivanisachdeva@gmail.com](email)
+- [er.shivanisachdeva@gmail.com](email)
+- [er,shivanisachdeva@gmail.com](email)
+- [er.shivanisachdeva@gmail.com](email)
+- [er.shivanisachdeva@gmail.com](email)
+- [er.shivanisachdeva@gmail.com](email)
+- [er.shivani@gmail.com](email)
+- [shreya@gmail.com](email)
+- [shiva@gmail.com](email)
+- [anil@gmail.com](email)
+- [shweta@gmail.com](email)
+- [kishore@gmail.com](email)
+- [muktab@gmail.com](email)
+- [brijesh@gmail.com](email)
+- [shanaya@gmail.com](email)
+- [shabana@gmail.com](email)
+- [shivam@gmail.com](email)
+- [shreyansh@gmail.com](email)
+- [rakesh@gmail.com](email)
+- [devansh@gmail.com](email)
+- [surya@gmail.com](email)
+- [ar@gmail.com](email)
+- [geeta@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shivani@gmail.com](email)
+- [tanya@gmail.com](email)
+- [shan@gmail.com](email)
+- [anil@gmail.com](email)
+- [esha@gmail.com](email)
+- [savy@gmail.com](email)
+- [shree@gmail.com](email)
+- [taman@gmail.com](email)
+- [sid@gmail.com](email)
+- [garima@gmail.com](email)
+- [sanju@gmail.com](email)
+- [garav@gmal.com](email)
+- [sanju@gmail.com](email)
+- [shreya@gmail.com](email)
+- [shiv@gmail.com](email)
+- [shivani@gmail.com](email)
+- [rajesh@gmail.com](email)
+- [shreya@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shalu@gmail.com](email)
+- [aman@gmail.com](email)
+- [shiv@gmail.com](email)
+- [rk@gmail.com](email)
+- [sha@gmail.com](email)
+- [shiv@gmail.com](email)
+- [ak@gmail.com](email)
+- [shreya@gmail.com](email)
+- [razia@gmail.com](email)
+- [gp@gmail.com](email)
+- [shiv@Gmail.com](email:shiv@gmail.com)
+- [shiv@gmail.com](email)
+- [rakesh@gmail.com](email)
+- [shreya@gmail.com](email)
+- [shiv@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shivani@gmail.com](email)
+- [razia@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shreya@gmail.com](email)
+- [shreya@gmailcom](email)
+- [shivani@gmail.com](email)
+- [shanaya@gmail.com](email)
+- [shreya@gmail.com](email)
+- [rakesh@gmail.com](email)
+- [shivani@outlook.com](email)
+- [shivani@outlook.com](email)
+- [shivani@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shanaya@gmail.com](email)
+- [shiv@gmail.com](email)
+- [shivangi@gmail.com](email)
+- [arru@gmail.com](email)
+- [shweta@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shiv@gmail.com](email)
+- [shabnam@gmail.com](email)
+- [shiv@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shivani@gmail.com](email)
+- [rakesh.verma@gmail.com](email)
+- [shivani@gmail.com](email)
+- [anjali@gmail.com](email)
+- [ishani@outlook.com](email)
+- [shreyak@gmail.com](email)
+- [ak@gmail.com](email)
+- [shantanu@gmail.com](email)
+- [annanya@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shahid@gmail.com](email)
+- [pankaj@gmail.com](email)
+- [aman@gmail.com](email)
+- [sanjana@gmail.com](email)
+- [shreya@gmail.com](email)
+- [manisha@gmail.com](email)
+- [er.shivanisachdeva@gmail.com](email)
+- [shreya@gmail.com](email)
+- [rakesh@gmail.com](email)
+- [rupali@gmail.com](email)
+- [sanjay@gmail.com](email)
+- [kishore@gmail.com](email)
+- [sheenam@gmail.com](email)
+- [priya@gmail.com](email)
+- [aashna@gmail.com](email)
+- [aditya@gmail.com](email)
+- [bhushan@gmail.com](email)
+- [sarvesh@gmail.com](email)
+- [sharvan@gmail.com](email)
+- [rakesh.verma@yahoo.com](email)
+- [shivani@gmail.com](email)
+- [shreya@gmail.com](email)
+- [sanjana@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shreya@gmail.com](email)
+- [shivani@gmail.com](email)
+- [shreyajain@gmail.com](email)
+
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- hi
+- yo
+- [hello](greet)
+- hello
+- hello
+
+## intent:inform
+- /confirm_help{"confirm_help":"I have a Query!"}
+- What is National Testing Agency (NTA)?
+- What is the Mission of NTA?
+- What are the Examinations to be conducted by NTA?
+- Whether all the Examinations conducted by NTA will be offline or online?
+- What is the primary objective of Test Practice Centre (TPC)?
+- Norms for candidate to register for a TPC
+- Can students applying for NEET- UG join TPCs?
+- What are the steps to register for Mock Test in Test Practice Centre (TPC) through website (www.nta.ac.in)?
+- Whether the Test Practice Centre (TPC) will charge any fee from the candidates for Mock Test?
+- How many no. of attempts are allowed for students to appear in Mock Test in Test Practice Centre (TPC)?
+- Can candidates change their Test Practice Centre (TPC) preferences after final submission of registration?
+- Shall all students registered receive TPC allotment.
+- How will candidates know about the Test Date and Slot of Test Practice Centre (TPC)?
+- Can the Student give the Mock Test from Home, using their PC/Laptop?
+- Where will the candidates get the latest updates about Mock Test/ Student Registration/TPC?
+- Can a student walk in a TPC?
+- Email ID or Mobile Number at NTA for timely solutions of queries on TPC?
+- Is NTA is providing Free Coaching to the Students?
+- How an institution/school/college can become part of NTA family for Test Practice Centre (TPC)?
+- What is minimum infrastructure required to become a Test Practice Centre (TPC)?
+- Is there any Agreement or MoU to be signed by Test Practice Centre (TPC) with NTA?
+- Can institution send MoU through mail or post to NTA?
+- Test Practice Centre (TPC) has successfully registered with NTA but forgot the registered Email ID and Password while uploading the MoU on the website.
+- How will a Candidate register for Test Practice Centre (TPC)?
+- How will the Test Practice Centre (TPC) get the Mock Test Material and from Where?
+- How will the Test Practice Centre (TPC) know about the No. of Registered Candidates in their institution?
+- Test Practice Centre (TPC) has successfully made a new password and uploaded MoU in the website but forgot the Password while login to know about the no. of registered candidates.
+- How will the Test Practice Centre (TPC) know if it is an operative TPC and When will they get the Final List of Candidates?
+- How many days a week the Test Practice Centre (TPC) conducts Mock Test for Candidates?
+- Can a Test Practice Centre (TPC) edit or correct their details?
+- Is the Remuneration fixed as mentioned in MoU, even if the Test Practice Centre (TPC) is having more than 30 Computers?
+- How will the Test Practice Centre (TPC) authenticate the Candidates for Mock Test?
+- Will there be any issue, if Test Practice Centre (TPC) is not operational on Saturdays/Sundays?
+- How is Student List issued to a TPC by NTA?
+- Should a TPC mail the attendance of candidates.
+- Students are not able to see a TPC in their choice list, while registering.
+- When shall NTA make Mock test available to the students applying for NEET-UG.
+- Whether the examination will be offline or online?
+- Will NTA reserve its discretion to fix the center in a city which is given in the Anexure-I?
+- Can a center be allotted by the NTA manually?
+- How long will the result/award of UGC-NET  be valid?
+- Where will the NET Qualified Candidate get the E-Certificate?
+- How can I select the Date and Slot of Examination of UGC-NET?
+- In case the Photograph is not having Name & Date of the Photograph, would the form be rejected?
+- In case, the Candidate has uploaded Blue Signature instead of a Black Signature in the application form of UGC-NET.Is it okay?
+- Is there any helpline for UGC-NET  examination  for the aspirants?
+- Can NTA fix the examination center in any city other than the options exercised by the candidates?
+- What are the duration/timings of UGC-NET?
+- What action is to be taken if the candidate has opted English as a medium for examination and wants to appear in Hindi medium?
+- Is Thumb Impression mandatory while filling UGC NET application.
+- Is there any change in the syllabus of UGC-NET?
+- Can NTA fix the examination center in any city other than the options exercised by the candidates?
+- Whether the application fee exclude the Common Service charge?
+- If any candidate faces any problem in remittance of fee due to failed transaction,what can he/she do?
+- If a candidate for any reason has not appeared in the examination, is there any provision for fee refund?
+- What is the state of eligibility for the Improvement Candidates /Institution Abroad/NIOS?
+- How many times a student can appear in one year?
+- How Normalization score will be decided?
+- Whether the photograph without name and date of photograph is accepted?
+- Will the JEE exams get tougher from 2019 onwards due to involvement of National Testing Agency?
+- Can I use calculator in online examination conducted by NTA?
+- Why option for Date and Shift is not given in JEE (Main)?
+- Will the application of JEE (main) be rejected if a candidate have filled duplicate forms?
+- When JEE (Main) -2020 will be conducted?
+- I have no access to a computer  and  no experience with online examination. How can I prepare for the examination?
+- Which Browser is to be used for applying the online application of JEE (main)-2020 Examination?
+- Is it necessary to appear in JEE (Main) Examination twice? If I give the examination on both the occasions, which score will be considered?
+- Will there be any changes in the JoSSA counselling process?
+- What is the number of attempts for appearing in UGC-NET ?
+- What is the syllabus for UGC-NET Dec?
+- Is there any change in the syllabus of UGC-NET, prescribed in UGC- NET Dec?
+- How to fill up ‘online’ application form for UGC-NET Dec, 2019? Are there any guidelines for the students before filling the application form?
+- I have no access to a computer and no experience with Computer Based Examination. How can I prepare for the exam?
+- What do the candidates need to bring to the exam center?
+- Will any candidate be able to leave early if he finishes the test before the allocated test time?
+- If one does not get Admit Card, whom should he contact?
+- Can a candidate change the examination center after allotment of roll number?
+- If mistakenly during filling up of the form,wrong particulars are filled in the online form, how it will be corrected?
+- Can anyone cancel the application submitted for UGC-NET Dec,2019?
+- What is the minimum eligibility/qualification for appearing in UGC-NET Dec, 2019?
+- What is the minimum qualification for appearing in UGC-NET Dec, 2019 for candidates of unreserved category?
+- What is the minimum qualification for appearing in UGC-NET Dec, 2018 for candidates of reserved category/ physically handicapped category/ PWD candidates?
+- What is the age limit/relaxation criteria for the candidates appearing in UGC-NET Dec, 2019?
+- Is there any exemption available for the eligibility for assistant professor?
+- What is the reservation criteria for seats falling under the jurisdiction of States?
+- Can I apply for multiple subjects while filling the online application form of UGC-NET December, 2019?
+- The result of final year examination of Master’s Degree is awaited , OR The Candidate who is in First year of Master’s Degree,am I eligible to fill the online application form of UGC-NET December, 2019?
+- How to remit fee for UGC-NET Dec, 2019?
+- Is Aadhaar mandatory for UGC NET Dec 2019 ?
+- What is the state of eligibility for the Improvement Candidates /Institution Abroad/NIOS?
+- is there negative marking in UGC NET?
+- negative marking in UGC-NET?
+- yes can you tell me whether can i carry calculator with me?
+- when JEE -Main will be held?
+- syllabus of UGC-NET?
+- negative marking in UGC
+- what is NTA?
+- NTA
+- NTA?
+- negative marking in UGC?
+- What is UGC-NET December 2019?
+- Is there any Negative Marking in the UGC-NET December, 2019?
+- How can one remit fee for CSIR UGC-NET Dec, 2019?
+- Can a candidate change the examination centre after allotment of roll number?
+- What is the syllabus for CSIR UGC-NET Dec, 2019?
+- In case the Photograph is not having Name & Date, would the form be rejected?
+- What is NTA?
+- is there negative marking in UGC-NET?
+- What is TPC?
+- can i walk into TPC?
+- what is TPC?
+- [is there negative marking in UGC-NET?](inform)
+- [what is NTA?](inform)
+- what is NTA
+- CMAT?
+- Cmat?
+- cmat
+- cmat?
+- Cmat
+- DIR
+- MBA?
+- negative marking
+- mba?
+- what is tpc?
+- what is NTA?
+- what is NTA?
+- what is NTA?
+- what is TPC?
+- what is NTA?
+- what is NTA?
+- what is NTA?
+- what is NTA?
+- what is NTA?
+- what is TPC?
+- what is cmat?
+- cmat?
+- cmat?
+- cmat?
+- mba?
+- what is NTA?
+- what is TPC?
+- what is NTA?
+- what is NTA?
+- cmat?
+- what is NTA?
+- cmat?
+- what is TPC?
+- what is NTA?
+- what is tpc?
+- cmat?
+- what is NTA?
+- what is NTA?
+- what is NTA?
+- what is NTA?
+- what is NTA?
+- what is TPC?
+- cmat?
+- what is NTA?
+- what is tpc?
+- MBA?
+- what is UGC-NET?
+- what is NTA?
+- cmat?
+- what is cmat?
+- what is NTA?
+- what is NTA?
+- what is tpc?
+- what is NTA?
+- what is cmat?
+- what is NTA?
+- what is TPC?
+- what is NTA?
+- what is NTA?
+- what is TPC?
+- what is NTA?
+- what is cmat?
+- what is NTA?
+- what is cmat?
+- what is NTA?
+- what is MBA?
+- what is cmat?
+- what is NTA?
+- nta?
+- cmat
+- what is NTA?
+- what is cmat?
+- what is MBA?
+- what is NTA?
+- what is cmat?
+- what is cmat?
+- what is NTA?
+- what is cmat?
+- what is NTA?
+- what is cmat?
+- what is TPC?
+- what is cmat?
+- what is NTA?
+- what is TPC?
+- what is NTA?
+- what is TPC?
+- what is NTA?
+- what is NTA?
+- what is TPC?
+- what is NTA?
+- what is NTA?
+- what is cmat?
+- what is NTA?
+- what is MBA?
+- what is TPC?
+- what is MBA?
+- what is NTA?
+- what is nta?
+- what is TPC?
+- what is NTA?
+- what is NTA?
+- what is NTA?
+- what is TPC?
+- what is NTA?
+- what is MBA?
+- elegibility of JEE-MAIN
+- what is cmat?
+- what is cmat?
+- what is cmat?
+- what is NTA?
+- what is cmat?
+- what is NTA?
+- what is cmat?
+- what is NTA?
+- what is NTA?
+- what is TPC?
+- cmat?
+- what is tpc?
+- cmat?
+- what is NTA?
+- what is MBA?
+- what is TPC?
+- cmat?
+- what is NTA?
+- what is TPC?
+- cmat?
+- cmat?
+- mba
+- cmat?
+- what is NTA?
+- mba?
+- cmat?
+- cmat?
+- what is tpc?
+- what is NTA?
+- what is CMAT?
+- cmat?
+- what is cmat?
+- what is NTA?
+- what is TPC?
+- what is cmat?
+- [registration fees issue](inform)
+- fees
+- registration
+- payment issue
+- eligibility
+- reservation
+- JEE
+- NEET
+- JNUEE
+- IIFT
+- NCHM
+- GPAT
+- CMAT
+- ICAR
+- IGNOU
+- DUET
+- duet
+- ignou
+- icar
+- cmat
+- gpat
+- nchm
+- iift
+- jnuee
+- neet
+- face detection
+- mba?
+- mba?
+- ignou?
+- nta?
+- neet?
+- jnuee
+- icar
+- ignou
+- cmat?
+- cmat?
+- ignou
+- cmat?
+- cmat?
+- hdfheuifhshdfeuwf
+- cmat?
+- cmat?
+- hdgywywgduwq
+- what is NTA?
+- nta?
+- what is tpc?
+- nta?
+- jee
+- cmat?
+- what is JEE
+- mba?
+- what is nta?
+- cmat?
+- mba
+- ignou
+- dnwjehfdewujfwa
+- jeee
+- nta?
+- nta?
+- nta
+- jee
+- jee last date
+- negative marking
+- last date
+- last date of registration
+- jee
+- jee
+- jee
+- jee
+- last date
+- jee
+- jee
+- cmat
+- jee
+- cmat
+- cmat
+- jee
+- cmat
+- jee
+- eligibity
+- eligibility
+- is exam tough?
+- is exam tough?
+
+## intent:person_name
+- [shivani](person)
+- [Shivani](person)
+- [rakesh](person)
+- [ISHANI](person)
+- [ishani](person)
+- [razia](person)
+- [anil](person)
+- [vikram](person)
+- [ravneet](person)
+- [manu](person)
+- [anam](person)
+- [rajan](person)
+- [lalit](person)
+- [shivani](person)
+- [shivani](person)
+- [rajan](person)
+- [rajan](person)
+- [rakesh](person)
+- [sunita](person)
+- [shivani](person)
+- [ritu](person)
+- [razia](person)
+- [manisha](person)
+- [lalit](person)
+- [shivani](person)
+- [rohan](person)
+- [taniya](person)
+- [anil](person)
+- [gurpreet](person)
+- [akshay](person)
+- [ishani](person)
+- [shivani](person)
+- [kishore](person)
+- [mukta](person)
+- [brijesh](person)
+- [shanaya](person)
+- [shreya](person)
+- [shivamo](person)
+- [shantanu](person)
+- [shreyansh](person)
+- [rakesh](person)
+- [devansh](person)
+- [surya](person)
+- [geetansh](person)
+- [shivani](person)
+- [shivani](person)
+- [shanaya](person)
+- [anil](person)
+- [esha](person)
+- [esha](person)
+- [savy](person)
+- [shree](person)
+- [taman](person)
+- [sidhart](person)
+- [garima](person)
+- [sanjana](person)
+- [gaurav](person)
+- [shreya](person)
+- [shivani](person)
+- [rajesh](person)
+- [shreya](person)
+- [shivani](person)
+- [shalini](person)
+- [aman](person)
+- [shivani](person)
+- [rakesh](person)
+- [shalu](person)
+- [shivani](person)
+- [akshay](person)
+- [shreya](person)
+- [razia](person)
+- [gurpreet](person)
+- [shivani](person)
+- [shivani](person)
+- [rakesh](person)
+- [shreya](person)
+- [shivani](person)
+- [shivani](person)
+- [shivani](person)
+- [razia](person)
+- [shivani](person)
+- [shreya](person)
+- [shreya](person)
+- [shivani](person)
+- [shanaya](person)
+- [shreya](person)
+- [rakesh](person)
+- [shivani](person)
+- [shivani](person)
+- [shivani](person)
+- [shivani](person)
+- [shanaya](person)
+- [shivani](person)
+- [shivangi](person)
+- [aradhya](person)
+- [shweta](person)
+- [shivani](person)
+- [shivani](person)
+- [shabnam](person)
+- [shivani](person)
+- [shivani](person)
+- [shivani](person)
+- [shivani](person)
+- [shivani sachdeva](person)
+- [shivani sachdeva](person)
+- [rakesh verma](person)
+- [shivani](person)
+- [anjali sharma](person)
+- [ishani bakshi](person)
+- [shreya kaushal](person)
+- [akshay kashyap](person)
+- [shantanu](person)
+- [annanya vasisht](person)
+- [shivani](person)
+- [shahid ibrahim](person)
+- [pankaj](person)
+- [aman singh](person)
+- [sanjana](person)
+- [shreya](person)
+- [manisha malik](person)
+- [shivani](person)
+- [shanaya](person)
+- [shreya](person)
+- [rakesh](person)
+- [rupali](person)
+- [sanjay](person)
+- [kishore](person)
+- [sheenam](person)
+- [priya](person)
+- [aashna](person)
+- [aditya](person)
+- [bhushan](person)
+- [sarvesh](person)
+- [sharvan](person)
+- [Rakesh verma](person)
+- [shivani](person)
+- [shreya](person)
+- [sanjana](person)
+- [shivani](person)
+- [shreya](person)
+- [shivani](person)
+- [shreya](person)
+- [rashmi desai](person)
+
+## intent:thank you
+- thanks
+- thank you
+- thanks a lot
+- thanks alot
+- thank you so much
+- thanks man
+- thanks
+- Thanks
+- thanks
+
+## synonym:Aadhar Card Mandatory
+- {"confirm_generalfaqs":"Aadhar Card Mandatory"}
+
+## synonym:Acceptance of Photograph without name and date
+- {"confirm_appqueries":"Acceptance of Photograph without name and date"}
+
+## synonym:Age Limit
+- {"confirm_criteriatype":"Age Limit"}
+
+## synonym:Answer Key
+- {"confirm_whichdate":"Answer Key"}
+
+## synonym:Application Form Related
+- {"confirm_otherstopics":"Application Form Related"}
+
+## synonym:Application correction window
+- {"confirm_whichdate":"Application correction window"}
+
+## synonym:Availability of Admit card
+- {"confirm_whichdate":"Availability of Admit card"}
+
+## synonym:Availability of Answer Key challenge facility
+- {"confirm_whichdate":"Availability of Answer Key challenge facility"}
+
+## synonym:Center Related Query
+- {"confirm_topic":"Center Related Query"}
+
+## synonym:Certificates Related
+- {"confirm_otherstopics":"Certificates Related"}
+
+## synonym:Certificates required during submission
+- {"confirm_certificatequeries":"Certificates required during submission"}
+
+## synonym:Change of Center
+- {"confirm_centerquery":"Change of Center"}
+
+## synonym:Change of Center during correction time period
+- {"confirm_centerquery":"Change of Center during correction time period"}
+
+## synonym:Change of Exam Date & Shift
+- {"confirm_examquery":"Change of Exam Date & Shift"}
+
+## synonym:Choice of 4 Exam Cities
+- {"confirm_appqueries":"Choice of 4 Exam Cities"}
+
+## synonym:Criteria for Foreign Candidate/NRI student
+- {"confirm_criteriatype":"Criteria for Foreign Candidate/NRI student"}
+
+## synonym:Declaration of Results
+- {"confirm_whichdate":"Declaration of Results"}
+
+## synonym:During correction time period is it possible to change center.
+- {"confirm_centerquery":"During correction time period is it possible to change center."}
+
+## synonym:Eligibility Criteria
+- {"confirm_topic":"Eligibility Criteria"}
+
+## synonym:Exam Related Queries
+- {"confirm_otherstopics":"Exam Related Queries"}
+
+## synonym:Fees Related Query
+- {"confirm_topic":"Fees Related Query"}
+
+## synonym:Female
+- {"confirm_gender":"Female"}
+
+## synonym:Gate Closing Time
+- {"confirm_generalfaqs":"Gate Closing Time"}
+
+## synonym:General FAQs
+- {"confirm_otherstopics":"General FAQs"}
+
+## synonym:General/EWS/OBC
+- {"confirm_category":"General/EWS/OBC"}
+
+## synonym:How to check JEE Mains exam Date?
+- {"confirm_examquery":"How to check JEE Mains exam Date?"}
+
+## synonym:IIFT
+- {"confirm_exam":"IIFT"}
+
+## synonym:Id Proofs Required
+- {"confirm_appqueries":"Id Proofs Required"}
+
+## synonym:Image correction started
+- {"confirm_whichdate":"Image correction started"}
+
+## synonym:Important Dates
+- {"confirm_topic":"Important Dates"}
+
+## synonym:JEE Main 2020 Exam
+- {"confirm_whichdate":"JEE Main 2020 Exam"}
+
+## synonym:JEE-MAIN
+- {"confirm_exam":"JEE-MAIN"}
+
+## synonym:Last date of fee submission & image uploading
+- {"confirm_whichdate":"Last date of fee submission & image uploading"}
+
+## synonym:Last date to submit the application form
+- {"confirm_whichdate":"Last date to submit the application form"}
+
+## synonym:Male
+- {"confirm_gender":"Male"}
+
+## synonym:Medium Of Exam
+- {"confirm_examquery":"Medium Of Exam"}
+
+## synonym:Mode Of Exam
+- {"confirm_examquery":"Mode Of Exam"}
+
+## synonym:Necessary to carry PWD Certificate in Exam Center
+- {"confirm_certificatequeries":"Necessary to carry PWD Certificate in Exam Center"}
+
+## synonym:No
+- {"deny":"No"}
+
+## synonym:Not Satisfied
+- {"confirm_feedback":"Not Satisfied"}
+
+## synonym:Notification release
+- {"confirm_whichdate":"Notification release"}
+
+## synonym:Number of Attempts
+- {"confirm_examquery":"Number of Attempts"}
+
+## synonym:Others
+- {"confirm_topic":"Others"}
+
+## synonym:Pattern of Examination
+- {"confirm_examquery":"Pattern of Examination"}
+
+## synonym:Payment/Fees Related
+- {"confirm_otherstopics":"Payment/Fees Related"}
+
+## synonym:Refund of Money if transaction done multiple times
+- {"confirm_paymentqueries":"Refund of Money if transaction done multiple times"}
+
+## synonym:Refund of money if Question challenged found correct
+- {"confirm_paymentqueries":"Refund of money if Question challenged found correct"}
+
+## synonym:Release of Application Form
+- {"confirm_whichdate":"Release of Application Form"}
+
+## synonym:Release of Final Answer Key
+- {"confirm_whichdate":"Release of Final Answer Key"}
+
+## synonym:Reporting time of Exam
+- {"confirm_generalfaqs":"Reporting time of Exam"}
+
+## synonym:Required Percentage
+- {"confirm_criteriatype":"Required Percentage"}
+
+## synonym:SC/ST/PwD/Transgender
+- {"confirm_category":"SC/ST/PwD/Transgender"}
+
+## synonym:Satisfied 
+- {"confirm_feedback":"Satisfied "}
+
+## synonym:State of Eligibility
+- {"confirm_criteriatype":"State of Eligibility"}
+
+## synonym:UGC-NET
+- {"confirm_exam":"UGC-NET"}
+
+## synonym:Use of Calculator
+- {"confirm_generalfaqs":"Use of Calculator"}
+
+## synonym:Yes
+- {"affirm":"Yes"}
+
+## synonym:rakesh verma
+- Rakesh verma
+
+## synonym:shiv@gmail.com
+- shiv@Gmail.com
+
+## regex:contact
+- [0-9]{10}
+
+## regex:name
+- [a-z]{4}

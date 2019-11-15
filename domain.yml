@@ -1,0 +1,378 @@
+%YAML 1.1
+---
+actions:
+- action_bye
+- action_feedback
+- action_get_answer
+- action_get_contact
+- action_get_email
+- action_get_name
+- action_get_nextstep
+- action_restarted
+- action_send_email
+- utter_appqueries
+- utter_ask_category
+- utter_ask_exam
+- utter_ask_gender
+- utter_ask_query
+- utter_ask_session
+- utter_askwhichdate
+- utter_centerquery
+- utter_certificatequeries
+- utter_criteria_type
+- utter_examquery
+- utter_feedback
+- utter_feedbackresponse
+- utter_generalfaqs
+- utter_goodbye
+- utter_greet
+- utter_hangon
+- utter_other_query
+- utter_others
+- utter_paymentqueries
+- utter_query
+- utter_querytopic
+- utter_sorry
+- utter_thank
+entities:
+- action_response
+- affirm
+- confirm_appqueries
+- confirm_category
+- confirm_centerquery
+- confirm_certificatequeries
+- confirm_criteriatype
+- confirm_exam
+- confirm_examquery
+- confirm_feedback
+- confirm_gender
+- confirm_generalfaqs
+- confirm_otherstopics
+- confirm_paymentqueries
+- confirm_topic
+- confirm_whichdate
+- contact
+- deny
+- email
+- greet
+- inform
+- person
+intents:
+- greet
+- deny
+- affirm
+- confirm_topic
+- confirm_exam
+- confirm_whichdate
+- confirm_feedback
+- bye
+- thank you
+- contact
+- person_name
+- email
+- confirm_otherstopics
+- confirm_generalfaqs
+- confirm_certificatequeries
+- confirm_paymentqueries
+- confirm_appqueries
+- confirm_examquery
+- confirm_criteriatype
+- confirm_centerquery
+- confirm_category
+- confirm_gender
+- action_response
+- inform
+slots:
+  action_response:
+    type: unfeaturized
+  confirm_appqueries:
+    type: unfeaturized
+  confirm_category:
+    type: unfeaturized
+  confirm_centerquery:
+    type: unfeaturized
+  confirm_certificatequeries:
+    type: unfeaturized
+  confirm_criteriatype:
+    type: unfeaturized
+  confirm_exam:
+    type: unfeaturized
+  confirm_examquery:
+    type: unfeaturized
+  confirm_feedback:
+    type: unfeaturized
+  confirm_gender:
+    type: unfeaturized
+  confirm_generalfaqs:
+    type: unfeaturized
+  confirm_help:
+    type: unfeaturized
+  confirm_otherstopics:
+    type: categorical
+    values:
+    - exam related queries
+    - application form related
+    - certificates related
+    - payment/fees related
+    - general faqs
+  confirm_paymentqueries:
+    type: unfeaturized
+  confirm_session:
+    type: unfeaturized
+  confirm_topic:
+    type: categorical
+    values:
+    - important dates
+    - eligibility criteria
+    - fees related query
+    - center related query
+    - others
+  confirm_whichdate:
+    type: unfeaturized
+  contact:
+    type: text
+  email:
+    type: text
+  person:
+    type: text
+templates:
+  utter_appqueries:
+  - buttons:
+    - payload: /confirm_appqueries{"confirm_appqueries":"Recovery of Application Number"}
+      title: Recovery of Application Number
+    - payload: /confirm_appqueries{"confirm_appqueries":"Password Reset"}
+      title: Password Reset
+    - payload: /confirm_appqueries{"confirm_appqueries":"Discrepancy in Images"}
+      title: Discrepancy in Images
+    - payload: /confirm_appqueries{"confirm_appqueries":"Correction in Application
+        Form"}
+      title: Correction in Application Form
+    - payload: /confirm_appqueries{"confirm_appqueries":"Confirmation Page Download"}
+      title: Confirmation Page Download
+    - payload: /confirm_appqueries{"confirm_appqueries":"Id Proofs Required"}
+      title: Id Proofs Required
+    - payload: /confirm_appqueries{"confirm_appqueries":"Choice of 4 Exam Cities"}
+      title: Choice of 4 Exam Cities
+    - payload: /confirm_appqueries{"confirm_appqueries":"Acceptance of Photograph
+        without name and date"}
+      title: Acceptance of Photograph without name and date
+    - payload: /confirm_appqueries{"confirm_appqueries":"Rejection of Duplicate Forms"}
+      title: Rejection of Duplicate Forms
+    - payload: /confirm_appqueries{"confirm_appqueries":"Image Size and Instructions"}
+      title: Image Size and Instructions
+    - payload: /confirm_appqueries{"confirm_appqueries":"Reservation system and Category"}
+      title: Reservation system and Category
+    text: Please Specify more about your query.
+  utter_ask_category:
+  - buttons:
+    - payload: /confirm_category{"confirm_category":"General/EWS/OBC"}
+      title: General/EWS/OBC
+    - payload: /confirm_category{"confirm_category":"SC/ST/PwD/Transgender"}
+      title: SC/ST/PwD/Transgender
+    text: Please select your category
+  utter_ask_exam:
+  - buttons:
+    - payload: /confirm_exam{"confirm_exam":"JEE-MAIN"}
+      title: JEE-MAIN
+    - payload: /confirm_exam{"confirm_exam":"UGC-NET"}
+      title: UGC-NET
+    - payload: /confirm_exam{"confirm_exam":"CSIR UGC-NET"}
+      title: CSIR UGC-NET
+    text: Please select the Domain of your Query
+  utter_ask_gender:
+  - buttons:
+    - payload: /confirm_gender{"confirm_gender":"Male"}
+      title: Male
+    - payload: /confirm_gender{"confirm_gender":"Female"}
+      title: Female
+    text: Please confirm your gender
+  utter_ask_query:
+  - text: What is your Query?
+  utter_ask_session:
+  - buttons:
+    - payload: /confirm_session{"confirm_session":"January Session"}
+      title: January Session
+    - payload: /confirm_session{"confirm_session":"April Session"}
+      title: April Session
+    text: Please select the JEE-MAIN Session
+  utter_askwhichdate:
+  - buttons:
+    - payload: /confirm_whichdate{"confirm_whichdate":"Release of Application Form"}
+      title: Release of Application Form
+    - payload: /confirm_whichdate{"confirm_whichdate":"Last date to submit the application
+        form"}
+      title: Last date to submit the application form
+    - payload: /confirm_whichdate{"confirm_whichdate":"Last date of fee submission
+        & image uploading"}
+      title: Last date of fee submission & image uploading
+    - payload: /confirm_whichdate{"confirm_whichdate":"Image correction started"}
+      title: Image correction started
+    - payload: /confirm_whichdate{"confirm_whichdate":"Application correction window"}
+      title: Application correction window
+    - payload: /confirm_whichdate{"confirm_whichdate":"Availability of Admit card"}
+      title: Availability of Admit card
+    - payload: /confirm_whichdate{"confirm_whichdate":"Exam Dates"}
+      title: JEE Main 2020 Exam
+    - payload: /confirm_whichdate{"confirm_whichdate":"Declaration of Results"}
+      title: Declaration of Results
+    - payload: /confirm_whichdate{"confirm_whichdate":"Answer Key"}
+      title: Answer Key
+    - payload: /confirm_whichdate{"confirm_whichdate":"Availability of Answer Key
+        challenge facility"}
+      title: Availability of Answer Key challenge facility
+    - payload: /confirm_whichdate{"confirm_whichdate":"Release of Final Answer Key"}
+      title: Release of Final Answer Keys
+    text: Please specify more about your query
+  utter_centerquery:
+  - buttons:
+    - payload: /confirm_centerquery{"confirm_centerquery":"Change of Center"}
+      title: Change of Center
+    - payload: /confirm_centerquery{"confirm_centerquery":"During correction time
+        period is it possible to change center."}
+      title: During correction time period is it possible to change center
+    text: Please specify more about your query.
+  utter_certificatequeries:
+  - buttons:
+    - payload: /confirm_certificatequeries{"confirm_certificatequeries":"Certificates
+        required during submission"}
+      title: Certificates required during submission
+    - payload: /confirm_certificatequeries{"confirm_certificatequeries":"Necessary
+        to carry PWD Certificate in Exam Center"}
+      title: Necessary to carry PWD Certificate in Exam Center
+    text: Please Specify more about your query.
+  utter_contact_number:
+  - text: Please enter your contact number
+  utter_criteria_type:
+  - buttons:
+    - payload: /confirm_criteriatype{"confirm_criteriatype":"Age Limit"}
+      title: Age Limit
+    - payload: /confirm_criteriatype{"confirm_criteriatype":"Required Percentage"}
+      title: Required Percentage
+    - payload: /confirm_criteriatype{"confirm_criteriatype":"State of Eligibility"}
+      title: State of Eligibility
+    - payload: /confirm_criteriatype{"confirm_criteriatype":"Criteria for Foreign
+        Candidate/NRI student"}
+      title: Criteria for Foreign Candidate/NRI student
+    text: Please specify more about your Query.
+  utter_email:
+  - text: Please provide your valid Email address
+  utter_examquery:
+  - buttons:
+    - payload: /confirm_examquery{"confirm_examquery":"Medium Of Exam"}
+      title: Medium Of Exam
+    - payload: /confirm_examquery{"confirm_examquery":"Mode Of Exam"}
+      title: Mode Of Exam
+    - payload: /confirm_examquery{"confirm_examquery":"Pattern of Examination"}
+      title: Pattern of Examination
+    - payload: /confirm_examquery{"confirm_examquery":"Number of Attempts"}
+      title: Number of Attempts
+    - payload: /confirm_examquery{"confirm_examquery":"Change of Exam Date & Shift"}
+      title: Change of Exam Date & Shift
+    - payload: /confirm_examquery{"confirm_examquery":"Re-Scheduling Of Exam due to
+        Natural Disaster"}
+      title: Re-Scheduling Of Exam due to Natural Disaster
+    - payload: /confirm_examquery{"confirm_examquery":"How to check JEE Mains exam
+        Date?"}
+      title: How to check JEE Mains exam Date
+    text: Please Specify more about your query.
+  utter_feedback:
+  - buttons:
+    - payload: /confirm_feedback{"confirm_feedback":"Satisfied "}
+      title: Satisfied
+    - payload: /confirm_feedback{"confirm_feedback":"Not Satisfied"}
+      title: Not Satisfied
+    text: Was this helpful? Are you satisfied?
+  utter_feedbackresponse:
+  - text: Thank you for cooperation. Our team will get back to you soon.
+  utter_generalfaqs:
+  - buttons:
+    - payload: /confirm_generalfaqs{"confirm_generalfaqs":"Negative Marking"}
+      title: Negative Marking
+    - payload: /confirm_generalfaqs{"confirm_generalfaqs":"Email Id of JEE(Main)"}
+      title: Email Id of JEE(Main)
+    - payload: /confirm_generalfaqs{"confirm_generalfaqs":"Allowance to take any object
+        in exam center"}
+      title: Allowance to take any object in exam center
+    - payload: /confirm_generalfaqs{"confirm_generalfaqs":"Use of Calculator"}
+      title: Use of Calculator
+    - payload: /confirm_generalfaqs{"confirm_generalfaqs":"Aadhar Card Mandatory"}
+      title: Aadhar Card Mandatory
+    - payload: /confirm_generalfaqs{"confirm_generalfaqs":"Reporting time of Exam"}
+      title: Reporting time of Exam
+    - payload: /confirm_generalfaqs{"confirm_generalfaqs":"Gate Closing Time"}
+      title: Gate Closing Time
+    - payload: /confirm_generalfaqs{"confirm_generalfaqs":"Dress Code for Exam"}
+      title: Dress Code for Exam
+    text: Please Specify more about your query.
+  utter_goodbye:
+  - text: Glad to help you! bye!
+  utter_greet:
+  - text: How can I help you?
+  utter_hangon:
+  - text: We are almost there. Just two steps we will be done.
+  utter_name:
+  - text: May I know your Name
+  utter_other_query:
+  - buttons:
+    - payload: /affirm{"affirm":"Yes"}
+      title: 'Yes'
+    - payload: /deny{"deny":"No"}
+      title: 'No'
+    text: Do you have any other query?
+  utter_others:
+  - buttons:
+    - payload: /confirm_otherstopics{"confirm_otherstopics":"Exam Related Queries"}
+      title: Exam Related Queries
+    - payload: /confirm_otherstopics{"confirm_otherstopics":"Application Form Related"}
+      title: Application Form Related
+    - payload: /confirm_otherstopics{"confirm_otherstopics":"Payment/Fees Related"}
+      title: Payment/Fees Related
+    - payload: /confirm_otherstopics{"confirm_otherstopics":"Certificates Related"}
+      title: Certificates Related
+    - payload: /confirm_otherstopics{"confirm_otherstopics":"General FAQs"}
+      title: General FAQs
+    text: Please Specify more about your query.
+  utter_paymentqueries:
+  - buttons:
+    - payload: /confirm_paymentqueries{"confirm_paymentqueries":"Payment Mode"}
+      title: Payment Mode
+    - payload: /confirm_paymentqueries{"confirm_paymentqueries":"Fee Criteria for
+        Answer Key Challenge"}
+      title: Fee Criteria for Answer Key Challenge
+    - payload: /confirm_paymentqueries{"confirm_paymentqueries":"Refund of Money if
+        transaction done multiple times"}
+      title: Refund of Money if transaction done multiple times
+    - payload: /confirm_paymentqueries{"confirm_paymentqueries":"Refund of money if
+        Question challenged found correct"}
+      title: Refund of money if Question challenged found correct
+    - payload: /confirm_paymentqueries{"confirm_paymentqueries":"Extra fee or any
+        service charges while making online payment"}
+      title: Extra fee or any service charges while making online payment
+    text: Please Specify more about your query.
+  utter_query:
+  - buttons:
+    - payload: /affirm{"affirm":"Yes"}
+      title: 'Yes'
+    - payload: /deny{"deny":"No"}
+      title: 'No'
+    text: Do you have a query?
+  utter_querytopic:
+  - buttons:
+    - payload: /confirm_topic{"confirm_topic":"Important Dates"}
+      title: Important Dates
+    - payload: /confirm_topic{"confirm_topic":"Eligibility Criteria"}
+      title: Eligibility Criteria
+    - payload: /confirm_topic{"confirm_topic":"Fees Related Query"}
+      title: Fees Related Query
+    - payload: /confirm_topic{"confirm_topic":"Center Related Query"}
+      title: Center Related Query
+    - payload: /confirm_topic{"confirm_topic":"Others"}
+      title: Others
+    text: Please select the Topic of your Query
+  utter_sorry:
+  - text: Sorry to hear that.
+  utter_team_contact:
+  - text: Thanks our team will get back to you with the appropriate answer of your
+      Query.
+  utter_thank:
+  - text: Glad to help you! bye!

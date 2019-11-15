@@ -1,0 +1,32 @@
+# Configuration for Rasa NLU.
+# https://rasa.com/docs/rasa/nlu/components/
+language: en
+#pipeline: "supervised_embeddings"
+pipeline:
+- name: "SpacyNLP"
+- name: "SpacyTokenizer"
+- name: "WhitespaceTokenizer"
+  intent_split_symbol: "_"
+- name: "SpacyFeaturizer"
+- name: "RegexFeaturizer"
+- name: "CRFEntityExtractor"
+- name: "EntitySynonymMapper" # you may remove it if you have not added any synonym data
+- name: "CountVectorsFeaturizer"
+  token_pattern: (?u)\b\w\w+\b 
+- name: "EmbeddingIntentClassifier"
+
+policies:
+  - name: "policy.NTAPolicy"
+    batch_size: 32
+    epochs: 100
+    validation_split: 0.2
+    max_history: 20
+    augmentation_factor: 0
+  - name: MemoizationPolicy
+  - name: MappingPolicy
+  - name: FallbackPolicy
+  #- name: "FormPolicy"
+  # - name: "FallbackPolicy"
+  #   #nlu_threshold:  -0.1
+  #   core_threshold: 0.1
+

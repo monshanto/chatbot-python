@@ -1,0 +1,73 @@
+<html>
+   <head>
+      
+      <title>Ask NTA</title>
+      <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link rel= "stylesheet" type= "text/css" href= "static/css/style.css">
+      <!--Main css-->
+      <link rel= "stylesheet" type= "text/css" href= "static/css/materialize.min.css">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+         <!-- <script type="text/javascript"> 
+            var x = document.getElementById("myAudio");
+           const playPromise = x.play();
+   if (playPromise !== null){
+    playPromise.catch(() => { x.play(); })
+}
+            /*#document.keypad.usrInput browser default.focus();*/
+        
+    </script>    -->
+   <!--  <script type="text/javascript">
+    setInterval("my_function();",1000); 
+    function my_function(){
+      $('#widget').load(location.href + ' #chats');
+    }</script> -->
+   </head>
+   <body >
+<!-- <body  onload = "document.keypad.usrInput browser-default.focus();" > -->
+      <div class="container">
+         <div class="widget">
+            <div class="chat_header">
+               
+               <audio id="myAudio">
+<source src="static/audio/animal_crossing_mail.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+               <div class="header-left">
+                   <p>Ask NTA</p>
+                  <img src="static/img/logo.png">
+               </div>
+               <span id="close">
+                  <i class="material-icons">close</i>
+               </span>
+            </div>
+            <!--Chatbot contents goes here -->
+            <div class="chats" id="chats" >
+               <div class="clearfix"></div>
+            </div>
+            <!--user typing indicator -->
+            <div  name= "keypad" class="keypad" >
+               <input name= "mytextfield" type="text" id="keypad" class="usrInput browser-default"  placeholder="Say Hi to start the conversation" autocomplete="off" >
+            </div>
+         </div>
+         <!--bot widget -->
+         <div class="profile_div" id="profile_div">
+            <img class="imgProfile" src="static/img/botAvatar.png"/>
+         </div>
+      </div>
+       <script>
+      sessionStorage.clear();</script>
+      <!--JavaScript at end of body for optimized loading-->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+     <!--  <script src="https://code.jquery.com/jquery-3.4.1.js"
+integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+crossorigin="anonymous"></script> -->
+      <script type="text/javascript" src="static/js/materialize.min.js"></script>
+      <!--Main Script -->
+      <script type="text/javascript" src="static/js/script.js"></script>
+   </body>
+</html>
